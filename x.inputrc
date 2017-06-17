@@ -1,0 +1,6 @@
+# vim: ts=8 sw=8
+set bell-style			visible
+set editing-mode		vi
+set keymap			vi
+set match-hidden-files		off
+set show-all-if-ambiguous	on
